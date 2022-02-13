@@ -1,5 +1,5 @@
 5 > 4 // true
-"ананас" > "яблоко" // false, "а" > "я"
+"ананас" > "яблоко" // false, "а" < "я"
 "2" > "12" // true, "2" > "1"
 undefined == null // true
 undefined === null // false
